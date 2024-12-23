@@ -1,2 +1,6 @@
-# Steganography-Data-Security
-A project that combines steganography and cryptography to securely hide sensitive information in digital images, audio, and video files. It employs a threshold-based embedding technique and key-based encryption for secure communication, making it difficult to detect and retrieve the hidden message.
+# Steganography Data Security Project
+This project integrates steganography and cryptography techniques to securely hide sensitive data within digital images, audio, and video files.
+
+Converts secret information into encrypted text, then embeds it into cover images using a threshold-based method.
+Utilizes key-based encryption to protect data, ensuring confidentiality and preventing detection.
+Demonstrates an innovative approach to secure communication by combining steganographic and cryptographic methods for data protection.
